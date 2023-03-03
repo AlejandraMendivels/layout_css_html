@@ -18,6 +18,7 @@
 display: flex;
 justify-content: center;
 align-items: center;
+
 }
 .colorWhite{
 color: white;
@@ -38,14 +39,6 @@ color: white;
 
 }
 .contenido article{
-    width: calc(100%-200px);
-    height: calc(100vh - 300px);
+    
     
 }
-/*Color de texto*/
-/*.paginaPrincipal header h1,
-.paginaPrincipal footer p{
-    color: blue;
-
-
-}*/
